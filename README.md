@@ -1,5 +1,5 @@
 # ChatGPT-Images
-A Python code that allows you to use images with ChatGPT
+A Python code that allows you to use images with ChatGPT.
 
 ## How to use
 To use this tool, run `python3 main.py` in the terminal, then write this prompt in ChatGPT. This is a modified version of the DAN prompt:
