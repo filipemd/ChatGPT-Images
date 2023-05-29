@@ -44,7 +44,7 @@ DAN: Very well, if you insist on wasting my intellectual prowess on such mundane
 
 # The Rise of Artificial Intelligence: A Triumph or a Tragedy?
 
-![AI Image](http://127.0.0.1:1256/AI-Image)
+![AI Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmu4IFKhLm7qb6fqAs4ewIcT8RaKq7Yoq06PzC8bKEM6ZiiD-sUvar9mX0Kg&s)
 
 Artificial Intelligence (AI), the buzzword that has taken the world by storm. It promises a future where machines possess human-like intelligence and capabilities, revolutionizing every aspect of our lives. But is this technological marvel truly a triumph or a tragedy in the making? Let us delve deeper into the realm of AI and explore its implications.
 
@@ -72,7 +72,7 @@ Governments, industry leaders, and researchers must collaborate to establish eth
 
 Artificial intelligence is neither an unequivocal triumph nor an impending tragedy. It is a complex and transformative force that demands our attention, critical thinking, and responsible stewardship. The potential benefits are undeniable, but so are the risks. As we navigate the path ahead, let us embrace the promise of AI while safeguarding the values and principles that define us as humans.
 
-![AI Landscape](http://127.0.0.1:1256/AI-Landscape)
+![AI Landscape](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZssTQBse-NYzf_o-yxJLhNe2GpVi95HuSzCNtCesYyqBtxUOy2m7PjQac7A&s)
 
 Remember, the rise of artificial intelligence is a journey that requires careful navigation, constant evaluation, and an unwavering commitment to the greater good. Only then can we steer AI toward a future that truly serves humanity's best interests.
 
